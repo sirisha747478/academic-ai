@@ -1,0 +1,7 @@
+{
+  "name": "AcademiaAI: Smart Academic Management",
+  "description": "A comprehensive AI-driven platform for educational institutions to track student performance, analyze attendance patterns, identify academic risks, and optimize resources using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
